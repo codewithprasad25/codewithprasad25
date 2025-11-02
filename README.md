@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Prasad Shinde</h1>
-<h3 align="center">Java Full Stack Developer | Co-Founder of <a href="https://theblack.co.in/" target="_blank">TheBlack</a> – A Clothing Brand Startup from India 🇮🇳</h3>
+<!-- 🎨 BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=250&section=header&text=Prasad%20Shinde%20👨‍💻&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Co-Founder%20of%20TheBlack&descAlignY=55&descAlign=50" />
+</p>
+
+<h3 align="center">
+Java Full Stack Developer | Co-Founder of 
+<a href="https://theblack.co.in/" target="_blank">TheBlack</a> 🖤  
+</h3>
+
+<p align="center">
+🌐 <a href="https://prasadshinde.vercel.app/" target="_blank"><b>Portfolio Website</b></a> • 
+💼 <a href="https://linkedin.com/in/prasad-shinde-076ab9233" target="_blank"><b>LinkedIn</b></a> • 
+📧 <a href="mailto:prasadshinde1305@gmail.com"><b>Gmail</b></a>
+</p>
 
 ---
 
@@ -75,45 +88,37 @@
 
 ---
 
-<h3 align="left">🌐 Connect With Me:</h3>
-<p align="left">
-<a href="https://twitter.com/@prasads2508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prasads2508" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasad-shinde-076ab9233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-shinde-076ab9233" height="30" width="40" /></a>
-<a href="mailto:prasadshinde1305@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+<h3 align="center">🧰 Languages and Tools:</h3>
+<p align="center">
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats & Analytics
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithprasad25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=codewithprasad25&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithprasad25&show_icons=true&theme=tokyonight" alt="Prasad Shinde GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithprasad25&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithprasad25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithprasad25&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithprasad25&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithprasad25&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 <h3 align="center">⭐ “Code with clarity, build with purpose, and learn without limits.” ⭐</h3>
+
