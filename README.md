@@ -17,7 +17,7 @@ Java Full Stack Developer | Co-Founder of
 ---
 
 ### 💡 About Me  
-🎓 **Computer Engineering Undergraduate** from Pune, India  
+🎓 **Computer Engineering Graduate** from Pune, India  
 💻 Skilled in **Java, Spring Boot, React, and MySQL**  
 🚀 Passionate about developing **secure, scalable, and real-world applications**  
 🤖 Exploring **AI tools, Cloud Technologies, and Backend Architecture**  
