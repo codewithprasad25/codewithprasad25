@@ -110,12 +110,13 @@ Java Full Stack Developer | Co-Founder of
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithprasad25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithprasad25&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithprasad25&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithprasad25&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithprasad25&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithprasad25&layout=compact&theme=radical" />
 </p>
 
 ---
